@@ -56,7 +56,11 @@ section span
 	z-index: 2;
 	transition: 1.5s;
 }
-
+section span:hover 
+{
+	background: rgb(6, 136, 235);
+	transition: 0s;
+}
 
 section .signin
 {
